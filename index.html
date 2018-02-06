@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8' />
+  <title>Nethope | Facebook</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.43.0/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.43.0/mapbox-gl.css' rel='stylesheet' />
+  <link href='style.css' rel='stylesheet' />
+  <script src='d3.min.js'></script>
+  <script src='date_fns.min.js'></script>
+  <script src='geo-viewport.js'></script>
+</head>
+
+  <body>
+
+    <div id='map'></div>
+    <div id="spinner" class="hide"></div>
+    <div class="map-overlay--bottom">
+      <div id="controls">
+        <img id="play" src="play.png" alt="play button">
+        <img id="pause" class='hide' src="pause.png" alt="play button">
+      </div>
+      <input id='slider' type='range' min='0' max='99' step='1' value='1' />
+    </div>
+    <div id="legend">
+      <h3>Connectivity</h3>
+    </div>
+    <div id='labels'>
+      <label id='event'></label>
+      <label id='day'></label>
+    </div>
+    <script src='app.js'></script>
+  </body>
+</html>

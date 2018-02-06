@@ -1,0 +1,677 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.496795,17.995929 ]
+    },
+    "properties": {
+    "location":"Juana Diaz ",
+    "connection_type":"P2P",
+    "date":1129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.83711,18.03409 ]
+    },
+    "properties": {
+    "location":"Yabucoa ",
+    "connection_type":"P2P ",
+    "date":1029
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.874899,18.044722 ]
+    },
+    "properties": {
+    "location":"Yabucoa",
+    "connection_type":"TVWS",
+    "date":1030
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.877539,18.051931 ]
+    },
+    "properties": {
+    "location":"Yabucoa",
+    "connection_type":"P2P",
+    "date":1029
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.4994444,18.05206111 ]
+    },
+    "properties": {
+    "location":"Juana Diaz",
+    "connection_type":"TvWs",
+    "date":1207
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.55888889,18.05847222 ]
+    },
+    "properties": {
+    "location":"Ponce",
+    "connection_type":"P2P",
+    "date":1018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.499566,18.113801 ]
+    },
+    "properties": {
+    "location":"Villalba",
+    "connection_type":"VSAT",
+    "date":1014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.989478,18.120532 ]
+    },
+    "properties": {
+    "location":"San Lorenzo ",
+    "connection_type":"P2P ",
+    "date":1126
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.989478,18.120532 ]
+    },
+    "properties": {
+    "location":"San Lorenzo ",
+    "connection_type":"P2P ",
+    "date":1126
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.9914459,18.1206508 ]
+    },
+    "properties": {
+    "location":"San Lorenzo",
+    "connection_type":"P2P",
+    "date":1202
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.260667,18.124556 ]
+    },
+    "properties": {
+    "location":"Aibonito",
+    "connection_type":"P2P",
+    "date":1027
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.263798,18.134517 ]
+    },
+    "properties": {
+    "location":"Aibonito",
+    "connection_type":"P2P ",
+    "date":1007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.265936,18.139493 ]
+    },
+    "properties": {
+    "location":"Aibonito",
+    "connection_type":"P2P",
+    "date":1027
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.43992,18.142031 ]
+    },
+    "properties": {
+    "location":"Vieques",
+    "connection_type":"P2P",
+    "date":1014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.823185,18.146421 ]
+    },
+    "properties": {
+    "location":"Humacao",
+    "connection_type":"VSAT",
+    "date":1028
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.442664,18.14805 ]
+    },
+    "properties": {
+    "location":"Vieques",
+    "connection_type":"P2P",
+    "date":1012
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.441545,18.149544 ]
+    },
+    "properties": {
+    "location":"Vieques",
+    "connection_type":"P2P ",
+    "date":1014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.827414,18.152381 ]
+    },
+    "properties": {
+    "location":"Humacao",
+    "connection_type":"TVWS",
+    "date":1028
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.083778,18.156361 ]
+    },
+    "properties": {
+    "location":"Cayey",
+    "connection_type":"P2P",
+    "date":1023
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.83362,18.165 ]
+    },
+    "properties": {
+    "location":"Castaner",
+    "connection_type":"P2P ",
+    "date":1114
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.75071,18.171095 ]
+    },
+    "properties": {
+    "location":"Adjuntas",
+    "connection_type":"P2P",
+    "date":1114
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.75071,18.171095 ]
+    },
+    "properties": {
+    "location":"Juana Diaz",
+    "connection_type":"P2P",
+    "date":1107
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.305838,18.18645 ]
+    },
+    "properties": {
+    "location":"Barranquitas",
+    "connection_type":"P2P",
+    "date":1103
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.967848,18.186932 ]
+    },
+    "properties": {
+    "location":"San Lorenzo",
+    "connection_type":"P2P ",
+    "date":1124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.9614024,18.189533 ]
+    },
+    "properties": {
+    "location":"San Lorenzo ",
+    "connection_type":"P2P",
+    "date":1124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.96036,18.19064 ]
+    },
+    "properties": {
+    "location":"San Lorenzo",
+    "connection_type":"Backbone Link ",
+    "date":1124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.29294,18.19078 ]
+    },
+    "properties": {
+    "location":"Barranquitas",
+    "connection_type":"P2P",
+    "date":1026
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.989,18.1917 ]
+    },
+    "properties": {
+    "location":"San Lorenzo",
+    "connection_type":"P2P ",
+    "date":1113
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.7404571,18.2112389 ]
+    },
+    "properties": {
+    "location":"Naguabo",
+    "connection_type":"�VSAT",
+    "date":1022
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.734428,18.212052 ]
+    },
+    "properties": {
+    "location":"Naguabo",
+    "connection_type":"LTE",
+    "date":1022
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.21597,18.21481 ]
+    },
+    "properties": {
+    "location":"Comerio",
+    "connection_type":"P2P",
+    "date":1026
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.22595,18.22134 ]
+    },
+    "properties": {
+    "location":"Comerio",
+    "connection_type":"P2P",
+    "date":1101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.222649,18.222387 ]
+    },
+    "properties": {
+    "location":"Comerio",
+    "connection_type":"P2P",
+    "date":1026
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.721245,18.254557 ]
+    },
+    "properties": {
+    "location":"Utuado",
+    "connection_type":"P2P ",
+    "date":1122
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.917724,18.254758 ]
+    },
+    "properties": {
+    "location":"Juncos ",
+    "connection_type":"VSAT",
+    "date":1118
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.6494565,18.26382 ]
+    },
+    "properties": {
+    "location":"Ceiba",
+    "connection_type":"VSAT",
+    "date":1017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.721676,18.265038 ]
+    },
+    "properties": {
+    "location":"Utuado",
+    "connection_type":"Backbone Link ",
+    "date":1118
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.705387,18.266345 ]
+    },
+    "properties": {
+    "location":"Utuado",
+    "connection_type":"TVWS ",
+    "date":1016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.712049,18.26877 ]
+    },
+    "properties": {
+    "location":"Utuado",
+    "connection_type":"TVWS",
+    "date":1004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.708471,18.275579 ]
+    },
+    "properties": {
+    "location":"Utuado",
+    "connection_type":"P2P ",
+    "date":1026
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.72893,18.280657 ]
+    },
+    "properties": {
+    "location":"Utuado",
+    "connection_type":"P2P ",
+    "date":1207
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.044464,18.285423 ]
+    },
+    "properties": {
+    "location":"Caguas",
+    "connection_type":"LTE",
+    "date":1101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.302284,18.303259 ]
+    },
+    "properties": {
+    "location":"Culebra",
+    "connection_type":"P2P",
+    "date":1025
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.318038,18.339339 ]
+    },
+    "properties": {
+    "location":"Corozal",
+    "connection_type":"P2P",
+    "date":1014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.318122,18.339757 ]
+    },
+    "properties": {
+    "location":"Corozal",
+    "connection_type":"P2P",
+    "date":1014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.317369,18.341076 ]
+    },
+    "properties": {
+    "location":"Corozal",
+    "connection_type":"P2P",
+    "date":1014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.31228,18.3419 ]
+    },
+    "properties": {
+    "location":"Corozal",
+    "connection_type":"P2P",
+    "date":1114
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.31596,18.34798 ]
+    },
+    "properties": {
+    "location":"Corozal",
+    "connection_type":"P2P",
+    "date":1113
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.139283,18.374392 ]
+    },
+    "properties": {
+    "location":"Bayamon ",
+    "connection_type":"LTE",
+    "date":1010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.900704,18.375516 ]
+    },
+    "properties": {
+    "location":"Canovanas",
+    "connection_type":"Bgan",
+    "date":1021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1191623,18.4031703 ]
+    },
+    "properties": {
+    "location":"Loiza",
+    "connection_type":"LTE",
+    "date":1220
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.19489,18.406791 ]
+    },
+    "properties": {
+    "location":"Bayamon",
+    "connection_type":"P2P",
+    "date":1017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.070594,18.4270286 ]
+    },
+    "properties": {
+    "location":"San Juan",
+    "connection_type":"P2P ",
+    "date":1025
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.999786,18.441542 ]
+    },
+    "properties": {
+    "location":"San Juan",
+    "connection_type":"Fiber",
+    "date":1006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.02138889,18.4419444 ]
+    },
+    "properties": {
+    "location":"PREPA",
+    "connection_type":"Not Known",
+    "date":1010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.092411,18.45418 ]
+    },
+    "properties": {
+    "location":"San Juan",
+    "connection_type":"P2P",
+    "date":1007
+    }
+  }
+]
+}
